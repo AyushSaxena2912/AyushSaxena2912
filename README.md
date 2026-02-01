@@ -1,6 +1,9 @@
 # I'm Ayush Saxena
+
 Back-End Developer | UI/UX Designer  
 Building scalable backend systems with clean user experiences.
+
+---
 
 ## Languages & Tools
 
@@ -22,11 +25,9 @@ Building scalable backend systems with clean user experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="35"/>
 </p>
 
+---
 
 ## Connect With Me
 - GitHub: https://github.com/AyushSaxena2912
 - Email: ayushofficial2912l@gmail.com
 - LinkedIn: your-linkedin-url
-
----
-

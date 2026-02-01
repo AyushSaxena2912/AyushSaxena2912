@@ -22,7 +22,6 @@ Building scalable backend systems with clean user experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="35"/>
 </p>
 
----
 
 ## Connect With Me
 - GitHub: https://github.com/AyushSaxena2912

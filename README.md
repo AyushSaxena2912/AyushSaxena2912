@@ -1,7 +1,7 @@
 # I'm Ayush Saxena
-
-🚀 Backend Developer | UI/UX Designer  
-🎯 Building scalable backend systems with clean user experiences
+Design~Code~Deploy | art & algorithms
+Back-End Developer | UI/UX Designer  
+Building scalable backend systems with clean user experiences
 
 ---
 

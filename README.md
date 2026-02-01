@@ -1,18 +1,6 @@
 # I'm Ayush Saxena
-Design~Code~Deploy | art & algorithms
 Back-End Developer | UI/UX Designer  
-Building scalable backend systems with clean user experiences
-
----
-
-## About Me
-- Backend developer with strong hands-on experience in **Node.js & Express**
-- Skilled **UI/UX Designer** with a product-focused mindset
-- Comfortable working with **SQL & NoSQL databases**
-- Interested in **Low Level System Design (LLD)**
-- I enjoy building complete products — from design to backend logic
-
----
+Building scalable backend systems with clean user experiences.
 
 ## Languages & Tools
 
@@ -33,7 +21,7 @@ Building scalable backend systems with clean user experiences
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="35"/>
 </p>
-
+ Design.Code.Deploy | art & algorithms
 ---
 
 ## Connect With Me

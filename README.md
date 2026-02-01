@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Ayush Saxena
+# I'm Ayush Saxena
 
 🚀 Backend Developer | UI/UX Designer  
 🎯 Building scalable backend systems with clean user experiences
 
 ---
 
-## 🧠 About Me
+## About Me
 - Backend developer with strong hands-on experience in **Node.js & Express**
 - Skilled **UI/UX Designer** with a product-focused mindset
 - Comfortable working with **SQL & NoSQL databases**
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
@@ -36,11 +36,10 @@
 
 ---
 
-## 📫 Connect With Me
-- 🌐 GitHub: https://github.com/AyushSaxena2912
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: your-linkedin-url
+## Connect With Me
+- GitHub: https://github.com/AyushSaxena2912
+- Email: your-email@gmail.com
+- LinkedIn: your-linkedin-url
 
 ---
 
-⭐️ *Focused on backend fundamentals with strong design thinking.*

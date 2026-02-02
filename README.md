@@ -22,7 +22,10 @@ Building scalable backend systems with clean user experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="45" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" width="45" style="margin-right:10px;"/>
+  <img 
+  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg"
+  width="45"
+  style="margin-right:10px; filter: invert(39%) sepia(93%) saturate(361%) hue-rotate(88deg) brightness(95%) contrast(88%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45"/>
 </p>

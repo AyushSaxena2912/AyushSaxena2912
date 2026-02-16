@@ -22,7 +22,7 @@ Building scalable backend systems with clean user experiences.
 ### Design
 [![My Skills](https://skillicons.dev/icons?i=figma,xd&theme=light)](https://skillicons.dev)
 
-### 🛠 Tools
+### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=light)](https://skillicons.dev)
 
 ---

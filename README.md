@@ -7,7 +7,7 @@ Building scalable backend systems with clean user experiences.
 ## Languages & Tools
 ## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts&theme=light)](https://skillicons.dev)
 
 ### Backend & Realtime

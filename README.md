@@ -8,7 +8,12 @@ Building scalable backend systems with clean user experiences.
 ## Tech Stack
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=light)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind&theme=light)](https://skillicons.dev)
+
+**Libraries & Frameworks:** Shadcn/UI • Framer Motion
 
 ### Backend & Realtime
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,socketio&theme=light)](https://skillicons.dev)
@@ -24,6 +29,8 @@ Building scalable backend systems with clean user experiences.
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=light)](https://skillicons.dev)
+
+**API Documentation:** Swagger
 
 ---
 

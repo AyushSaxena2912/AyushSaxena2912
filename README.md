@@ -8,12 +8,15 @@ Building scalable backend systems with clean user experiences.
 ## Tech Stack
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts&theme=light)](https://skillicons.dev)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind&theme=light)](https://skillicons.dev)
 
-**Libraries & Frameworks:** Shadcn/UI • Framer Motion
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="48" alt="Framer Motion"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg" width="48" alt="Shadcn/UI"/>
+</p>
 
 ### Backend & Realtime
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,socketio&theme=light)](https://skillicons.dev)
@@ -28,9 +31,11 @@ Building scalable backend systems with clean user experiences.
 [![My Skills](https://skillicons.dev/icons?i=figma,xd&theme=light)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=light)](https://skillicons.dev)
 
-**API Documentation:** Swagger
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" width="48" alt="Swagger"/>
+</p>
 
 ---
 
@@ -39,6 +44,7 @@ Building scalable backend systems with clean user experiences.
 - GitHub: https://github.com/AyushSaxena2912  
 - Email: ayushofficial2912l@gmail.com  
 - LinkedIn: your-linkedin-url
+
 <!-- <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -62,6 +68,7 @@ Building scalable backend systems with clean user experiences.
 </p> -->
 
 ## Connect With Me
+
 - GitHub: https://github.com/AyushSaxena2912
 - Email: ayushofficial2912l@gmail.com
 - LinkedIn: your-linkedin-url
